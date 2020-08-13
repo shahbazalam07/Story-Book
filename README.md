@@ -1,9 +1,6 @@
 # StoryBooks :books::pencil:
 _A web app that allows people to share public stories or to keep them private or unpublished. The users can sign-in using Google OAuth. They can edit the stories posted by them, see the public stories posted by others. In each story, the user can specify whether to allow comments on the story or not._
 
-## Demo
-https://storybooks-nirajx1d.herokuapp.com/
-
 ## Tools and Technologies
 * Node.js
 * Express
